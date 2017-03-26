@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "582558975519",
+    "firebase_url": "https://trial2-firebase.firebaseio.com",
+    "project_id": "trial2-firebase",
+    "storage_bucket": "trial2-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582558975519:android:51ffbed4d3faf765",
+        "android_client_info": {
+          "package_name": "com.example.dadriaunna01.takehomeassignment08_dadriaunnaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582558975519-8h9oqkdrdfij8b116ruqp159fbpr1irs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAX3e1a_cejkAVzRA4cn8c2Lbu_3GG750"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
